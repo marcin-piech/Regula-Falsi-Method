@@ -1,4 +1,4 @@
-%regula_falsi - Projekt I, Marcin Piech 191679 gr.5
+%regula_falsi - Projekt I
 close all; clc;
 
 %dane
